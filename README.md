@@ -44,3 +44,12 @@ Getting started is easy! Follow these steps to set up the project on your local 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/vijaysingdobhal/Sales-Prediction.git
+
+
+## 🔮 Future Work
+This project is just the beginning! Here are some ideas for future enhancements:
+
+1. **Deep Learning: Explore deep learning models like Neural Networks for more accurate predictions.
+2. **Time Series Analysis: Incorporate time-based forecasting techniques such as ARIMA or Prophet.
+3. **Model Optimization: Experiment with hyperparameter tuning to improve model accuracy.
+4. **More Features: Add external factors like weather, holidays, or market conditions to enhance predictions.
