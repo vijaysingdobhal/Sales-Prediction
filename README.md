@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-Welcome to the **Sales Prediction** project! This project focuses on predicting sales for a company based on historical sales data. By leveraging machine learning algorithms, we aim to forecast future sales performance, identify key trends, and assist decision-makers in optimizing business strategies. The dataset includes features such as advertising spend, product pricing, and previous sales data to build a predictive model.
+Welcome to the **Sales Prediction** project! Based on historical sales data, this project aims at predicting sales performance of a company. Using the machine learning algorithm, we aim to project future trends in order to drive business optimization with the support of the decision-makers. All of that will be done using features like advertising spend, product pricing, and previous sales data for a detailed formation of the predictive model.
 
 ## 🎯 Objectives
 
