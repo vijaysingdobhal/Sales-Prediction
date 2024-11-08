@@ -1,8 +1,3 @@
-# 📊 Sales Prediction - Data Science & Analytics
-
-## 📊 Project Overview
-
-
 # 🛒 Sales Prediction Project
 
 ## 📄 Project Overview
