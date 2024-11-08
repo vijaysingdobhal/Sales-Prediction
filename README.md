@@ -51,6 +51,6 @@ Feel free to open issues or submit pull requests for improvements or additional 
 ## 📫 Contact
 For more details or collaboration opportunities:
 
-GitHub: github.com/vijaysingdobhal
-LinkedIn: https://www.linkedin.com/in/vijaysing-dobhal-b7305b196/
-Email: vijaysingdobhal1707@gmail.com
+* GitHub: github.com/vijaysingdobhal
+* LinkedIn: https://www.linkedin.com/in/vijaysing-dobhal-b7305b196/
+* Email: vijaysingdobhal1707@gmail.com
